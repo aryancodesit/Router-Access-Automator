@@ -1,0 +1,4 @@
+selenium>=4.0.0
+requests
+beautifulsoup4
+# Make sure you also place the compatible chromedriver.exe in your project directory or set its path in your script.
