@@ -19,6 +19,7 @@ Automates login and password update tasks on WiFi routers via Selenium.
    ```bash
    git clone https://github.com/aryancodesit/router-access-automator.git
    cd router-access-automator
+   cd Router Access Automator
    
 2. Install dependencies:
    ```bash
@@ -33,10 +34,6 @@ Run modules as needed:
 - Fingerprint router:
   ```bash
   python router_fingerprint.py
-
-- Try default logins:
-  ```bash
-  python router_login.py
 
 - Automate router login and change password:
   ```bash
