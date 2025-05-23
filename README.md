@@ -18,7 +18,7 @@ Automates login and password update tasks on WiFi routers via Selenium.
 1. Clone the repository:
    ```bash
    git clone https://github.com/aryancodesit/router-access-automator.git
-   cd Roter Access Automator
+   cd router-access-automator
    
 2. Install dependencies:
    ```bash
